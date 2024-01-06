@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Facebook - log in or sign up
+        </title>
+        <link href="./style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="maintext" id="text">
+           <div id="facebook">
+           facebook
+           </div> 
+          <div id="text1"> Facebook helps you connect and share with the people in your life.</div>
+        </div>
+
+        <div class="loginbox corner" id="loginbox">
+            
+            <div id="username" >
+                <input type="text" class="boxcontent greyborder"  placeholder="Email address or phone number">
+            </div>
+
+            <div id="pass" >
+                <input type="password" placeholder="Password" class="boxcontent greyborder">
+            </div>
+
+            <div id="logbut" >
+                <button id="loginbutton"  class="boxcontent">Log in</button>
+            </div>
+             <a href="" id="forgpass"> Forgotten password?</a>
+            <hr>
+            <button id="newaccount" class="boxcontent corner" >Create new account</button>
+        </div>
+
+        <div id="para">
+            <a id="createpage" href="">Create a Page</a> for a celebrity, brand or business.</div>
+    </body>
+
+</html>
