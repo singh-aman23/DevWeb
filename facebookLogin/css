@@ -1,0 +1,91 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-color: #f0f2f5;
+}
+#text{
+    width:345px;
+    position: relative;
+    top: 218px;
+    left: 398px;
+}
+/* #1877f2 */
+#facebook{
+    font-size:45px;
+    font-weight:bold;
+    color:#1877f2;
+    margin-bottom: 5px;
+}
+#text1{
+    font-size: 20px;
+}
+#loginbox{
+    width:400px;
+    border:2px solid #dfe1e3;
+    position:relative;
+    top:30px;
+    left:20px;
+    padding:16px;
+    background-color: white;
+    position:relative;
+    top: 45px;
+    left: 853px;
+}
+.boxcontent{
+    width:392px;
+    padding-bottom:19px;
+    
+    
+}
+#loginbutton{
+    width:400px;
+    font-weight: bold;
+    background-color: #1877f2;
+    color:white;
+    font-size:20px;
+    border-color: #1877f2;
+}
+#forgpass{
+    text-decoration: none;
+    color:#1877f2;
+    font-size:14px;
+    background-color: white;
+    position:relative;
+    left:133px;
+}
+#newaccount{
+    background-color: #42b72a;
+    font-weight:bold;
+    color:white;
+    font-size:15px;
+    border-color:#42b72a;
+    width:175px;
+    position:relative;
+    left:104px;
+    top:10px;
+    margin-bottom:10px;
+}
+#username,#pass,#logbut{
+    padding-bottom:12px;
+    background-color: white;
+}
+.corner,.boxcontent{
+    border-radius:8px;
+}
+.greyborder{
+    border-style:solid;
+    border-color: #dfe1e3;
+    background-color: white;;
+}
+#createpage{
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+#createpage:hover{
+    text-decoration: underline;
+}
+#para{
+    position: relative;
+    top: 62px;
+    left: 906px;
+}
